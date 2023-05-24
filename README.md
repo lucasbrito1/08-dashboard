@@ -12,7 +12,7 @@ Realização de um desafio semanal da Rocketseat chamado <a href="https://www.ro
 
 ### 🖥️ Layout pronto
 
-https://09-conversor-de-moedas.vercel.app/
+https://08-dashboard.vercel.app/
 
 ### 🚀 Tecnologias utilizadas
 
